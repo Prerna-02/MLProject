@@ -1,5 +1,6 @@
 import sys
-from src.logger import logging
+from srcs.logger import logging
+
 
 
 #whatever the error encounter it'll be pushed into this error_msg_detail
